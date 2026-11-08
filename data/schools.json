@@ -1,0 +1,47 @@
+{
+  "asOf": "2025-05-01",
+  "checkedAt": "2026-11-08",
+  "source": "https://www.city.osaka.lg.jp/kyoiku/cmsfiles/contents/0000659/659883/08_tyugakkobetsugakkyusu_seitosu.pdf",
+  "notes": "生徒数为总数，含特别支援学级学生；普通班与特别支援班分列。中国籍人数、升学率未取得可比公开数据，保留null。",
+  "schools": [
+    {
+      "name": "天王寺中学校",
+      "students": 572,
+      "classes": 15,
+      "supportClasses": 6,
+      "grades": [
+        169,
+        212,
+        191
+      ],
+      "chineseStudents": null,
+      "highSchoolProgressionRate": null
+    },
+    {
+      "name": "阿倍野中学校",
+      "students": 312,
+      "classes": 9,
+      "supportClasses": 5,
+      "grades": [
+        98,
+        122,
+        92
+      ],
+      "chineseStudents": null,
+      "highSchoolProgressionRate": null
+    },
+    {
+      "name": "高津中学校",
+      "students": 406,
+      "classes": 11,
+      "supportClasses": 2,
+      "grades": [
+        154,
+        133,
+        119
+      ],
+      "chineseStudents": null,
+      "highSchoolProgressionRate": null
+    }
+  ]
+}
